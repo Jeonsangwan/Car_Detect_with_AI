@@ -1,0 +1,6 @@
+path: /Users/sangwanjeon/PycharmProjects/AI/bottom_signal/dataset
+train: images/train
+val: images/train
+
+nc: 1
+names: ["car"]
