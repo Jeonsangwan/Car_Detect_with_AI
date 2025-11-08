@@ -1,6 +1,6 @@
-path: /Users/sangwanjeon/PycharmProjects/AI/bottom_signal/dataset
+path: /Users/sangwanjeon/Documents/GitHub/Car_Detect_with_AI/bottom_signal/dataset
 train: images/train
-val: images/train
+val: images/val
 
 nc: 1
 names: ["car"]
