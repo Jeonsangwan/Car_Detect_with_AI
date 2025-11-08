@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import cv2
 
-model = YOLO("/Users/sangwanjeon/Documents/GitHub/Car_Detect_with_AI/runs/detect/car-only3/weights/best.pt")
+model = YOLO("/Users/sangwanjeon/Documents/GitHub/Car_Detect_with_AI/runs/detect/car-only/weights/best.pt")
 cap = cv2.VideoCapture(0)
 
 while True:
